@@ -1,2 +1,3 @@
 # Code_plaza
-Open algorithm solutions
+Basic Python proggraming questions and answers with TODO comments
+Open algorithm solutions with links
